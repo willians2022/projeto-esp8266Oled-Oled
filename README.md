@@ -13,3 +13,6 @@ SDA → D2
 SCL → D1
 LED externo:
 D7 → resistor → LED → GND
+
+selecionar NodeMCU 1.0 ( ESP-12EMOdule)
+e baixa a bibliotecas.
